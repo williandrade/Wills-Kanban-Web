@@ -1,0 +1,22 @@
+{
+  "New Task": "Nova Tarefa",
+  "Search": "Pesquisar",
+  "Delete": "Remover",
+  "Edit Task": "Editar Tarefa",
+  "Update Task": "Atualizar Tarefa",
+  "Create Task": "Criar Tarefa",
+  "Close": "Fechar",
+  "Cancel": "Cancelar",
+  "Status": "Status",
+  "Tags": "Tags",
+  "Title": "Título",
+  "Description": "Descrição",
+  "Add Comment": "Adicionar Comentário",
+  "Comment": "Comentário",
+  "To Do": "Para Fazer",
+  "In Work": "Trabalhando",
+  "QA": "Teste",
+  "Completed": "Feito",
+  "Research": "Pesquisa",
+  "Development": "Desenvolvimento"
+}

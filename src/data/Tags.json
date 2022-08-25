@@ -1,0 +1,28 @@
+{
+  "tags": [
+    {
+      "_id": 0,
+      "title": "Research",
+      "color": "#f7f0ff",
+      "textColor": "#c796ff"
+    },
+    {
+      "_id": 1,
+      "title": "Development",
+      "color": "#f0faff",
+      "textColor": "#3fc2ff"
+    },
+    {
+      "_id": 2,
+      "title": "UI Design",
+      "color": "#f0f4ff",
+      "textColor": "#467bff"
+    },
+    {
+      "_id": 3,
+      "title": "UX Design",
+      "color": "#fff6f0",
+      "textColor": "#ffc9a3"
+    }
+  ]
+}

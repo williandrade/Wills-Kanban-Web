@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "comments": ["First Comment", "Second Comment"],
+      "description": "Here is a description",
+      "status": 0,
+      "tags": [0, 1],
+      "title": "A new Task",
+      "createdOn": "2022-08-24",
+      "_id": "1016fa7b-c47d-4b29-a9da-d8e20922ac11"
+    },
+    {
+      "comments": ["First Comment"],
+      "description": "Here is a description",
+      "status": 3,
+      "tags": [0, 1],
+      "title": "A new Completed Task",
+      "createdOn": "2022-08-24",
+      "_id": "1016fa2b-c47d-4b21-a9da-d8e20922ac32"
+    }
+  ]
+}

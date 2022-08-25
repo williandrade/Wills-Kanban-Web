@@ -1,0 +1,24 @@
+{
+  "statuses": [
+    {
+      "_id": 0,
+      "title": "To Do",
+      "color": "#3d4656"
+    },
+    {
+      "_id": 1,
+      "title": "In Work",
+      "color": "#306bff"
+    },
+    {
+      "_id": 2,
+      "title": "QA",
+      "color": "#ffb57f"
+    },
+    {
+      "_id": 3,
+      "title": "Completed",
+      "color": "#78c552"
+    }
+  ]
+}

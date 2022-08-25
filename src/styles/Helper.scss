@@ -1,0 +1,20 @@
+$abreviatedPositions: (
+  top: "t",
+  bottom: "b",
+  left: "l",
+  right: "r",
+);
+
+@each $key, $value in $abreviatedPositions {
+  .b#{$value}--color {
+    border-#{$key}: 1px solid #d3d3d3;
+  }
+}
+
+.min-w-sm {
+  min-width: 768px;
+}
+
+.min-w-md {
+  min-width: 1024px;
+}

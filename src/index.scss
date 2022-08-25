@@ -1,0 +1,58 @@
+@use "cirrus-ui/src/cirrus-ext" as * with (
+  $config: (
+    excludes: (
+      "ALL",
+    ),
+    includes: (
+      "ANIMATIONS",
+      "GRID",
+      "WIDTHS",
+      "HEIGHTS",
+      "MIN-HEIGHT",
+      "MAX-HEIGHT",
+      "MIN-WIDTH",
+      "MAX-WIDTH",
+      "MARGIN-PADDING",
+      "RESET",
+      "BUTTON",
+      "CARD",
+      "FORMS",
+      "FORMS-EXT",
+      "FRAMES",
+      "LINKS",
+      "LINKS-EXT",
+      "PLACEHOLDER",
+      "TAGS",
+      "TILES",
+      "TOOLTIPS",
+      "CLEARFIX",
+      "DISPLAY",
+      "FLEX",
+      "FLOAT",
+      "OVERFLOW",
+      "POSITION",
+      "TEXT",
+      "OPACITY",
+      "BACKGROUND-OPACITY",
+      "COLOR-OPACITY",
+      "ZINDEX",
+      "ABSOLUTES",
+      "GAP",
+      "ROUND",
+      "SHADOWS",
+      "LETTER-SPACING",
+    ),
+    extend: (
+      min-heights: (
+        "500px": 500px,
+      ),
+      min-widths: (
+        "300px": 300px,
+      ),
+    ),
+  )
+);
+
+@use "./styles/Helper.scss";
+@use "./styles/Fixes.scss";
+@use "./styles/Animations.scss";
